@@ -1,5 +1,8 @@
 {
     "name": "mr-linter/metrics-collector-manager",
+    "description": "Metrics: Collector Manager",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "artarts36",
